@@ -1,0 +1,22 @@
+### MPLAB ###
+
+*/dist
+*/build
+*/debug
+*/nbproject/private
+
+*.COD
+*.err
+*.HEX
+*.lst
+*.mcp
+*.mcs
+*.mcw
+*.SDI
+*.mptags
+*.tagsrc
+
+### Proteus ###
+
+*.PWI
+*.DBK
