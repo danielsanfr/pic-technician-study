@@ -1,0 +1,44 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Sat Sep 17 21:23:21 2016
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000044
+                   .cinit    romdata   0x000022    program   0x000004
+.config_2007_BUILD/DEFAULT/PRODUCTION/SRC/MAI       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000023      
+                            0x002007    0x002007      
+            37 out of 2182 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000001    program     static src/main.asm             
+                     LOOP   0x00000d    program     static src/main.asm             
+             _.org_0_000F   0x00000f    program     static src/main.asm             
+             _.org_0_0014   0x000014    program     static src/main.asm             
+             _.org_0_0019   0x000019    program     static src/main.asm             
+             _.org_0_001E   0x00001e    program     static src/main.asm             
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000001    program     static src/main.asm             
+                     LOOP   0x00000d    program     static src/main.asm             
+             _.org_0_000F   0x00000f    program     static src/main.asm             
+             _.org_0_0014   0x000014    program     static src/main.asm             
+             _.org_0_0019   0x000019    program     static src/main.asm             
+             _.org_0_001E   0x00001e    program     static src/main.asm             
+
+

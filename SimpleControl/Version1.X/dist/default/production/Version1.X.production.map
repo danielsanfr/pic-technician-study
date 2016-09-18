@@ -1,0 +1,52 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Sat Sep 17 21:18:20 2016
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00004c
+                   .cinit    romdata   0x000026    program   0x000004
+.config_2007_BUILD/DEFAULT/PRODUCTION/SRC/MAI       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000027      
+                            0x002007    0x002007      
+            41 out of 2182 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x00000d    program     static src/main.asm             
+                      LD0   0x000001    program     static src/main.asm             
+                      LD1   0x000004    program     static src/main.asm             
+                      LD2   0x000007    program     static src/main.asm             
+                      LD3   0x00000a    program     static src/main.asm             
+                     LOOP   0x000015    program     static src/main.asm             
+             _.org_0_0017   0x000017    program     static src/main.asm             
+             _.org_0_001B   0x00001b    program     static src/main.asm             
+             _.org_0_001F   0x00001f    program     static src/main.asm             
+             _.org_0_0023   0x000023    program     static src/main.asm             
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                      LD0   0x000001    program     static src/main.asm             
+                      LD1   0x000004    program     static src/main.asm             
+                      LD2   0x000007    program     static src/main.asm             
+                      LD3   0x00000a    program     static src/main.asm             
+                   INICIO   0x00000d    program     static src/main.asm             
+                     LOOP   0x000015    program     static src/main.asm             
+             _.org_0_0017   0x000017    program     static src/main.asm             
+             _.org_0_001B   0x00001b    program     static src/main.asm             
+             _.org_0_001F   0x00001f    program     static src/main.asm             
+             _.org_0_0023   0x000023    program     static src/main.asm             
+
+
