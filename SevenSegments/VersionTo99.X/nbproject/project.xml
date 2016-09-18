@@ -3,8 +3,8 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>SevenSegments</name>
-            <creation-uuid>2e4d58d1-fc6a-4d66-9deb-344d69aaf94f</creation-uuid>
+            <name>VersionTo99</name>
+            <creation-uuid>08c1a2a1-36af-43fd-9367-a9970634b6d0</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions/>
             <cpp-extensions/>
