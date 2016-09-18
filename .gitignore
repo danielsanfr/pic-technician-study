@@ -1,9 +1,9 @@
 ### MPLAB ###
 
-*/dist
-*/build
-*/debug
-*/nbproject/private
+**/dist
+**/build
+**/debug
+**/nbproject/private
 
 *.COD
 *.err
